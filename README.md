@@ -1,4 +1,4 @@
-# chatbot
+# esports-chatbot
 
 1. Chatbot.ipynb file is the chatbot which is used to generate responses to the input provided by the user depending on his interest in various sports related activities. The file is created in Jupyter Notebook which is used to create and share documents that contain live code, equations, visualizations and narrative text. 
 2. We make use of NLTK (natural language toolkit) for creating a chatbot. NLTK is a leading platform for building Python programs to work with human language data. It provides easy-to-use interfaces such as WordNet, along with a suite of text processing libraries for classification, tokenization, stemming, tagging, parsing, and semantic reasoning, wrappers for industrial-strength NLP libraries.
