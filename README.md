@@ -8,4 +8,4 @@
 6. Finally, when the file is executed in jupyter, the text file helps to give results to the input query in real-time.
 
 
-Contributors - Atharva More , Jay Bhatt and Royston Furtado
+Contributors - Atharva More , Jay Bhatt and Royston Furtado.
